@@ -20,12 +20,6 @@
   <a href="https://www.linkedin.com/in/rafaartsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div width="100%" align="center" justify="center">
-  <a href="https://roadmap.sh">
-      <img  src="https://roadmap.sh/card/tall/66cc8ce20d264bdbf8204583?variant=dark" alt="roadmap.sh"/>
-    </a>
-</div>
-
 <div width="100%" align="center" justify="center"> 
   
   <a href="https://github.com/rafaart" >

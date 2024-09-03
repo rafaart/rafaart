@@ -20,11 +20,14 @@
   <a href="https://www.linkedin.com/in/rafaartsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div width="100%" align="center" justify="center"> 
+<div width="100" align="left" justify="center"> 
   
   <a href="https://github.com/rafaart" >
-  <img width="30%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rafaart&theme=github_dark" /> 
-  <img width="30%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaart&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rafaart&theme=github_dark" /> 
+  </a>
+  
+  <a href="https://github.com/rafaart">
+	<img width="50%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafaart&layout=compact&bg_color=0D1117&border_color=fffC&title_color=4886CC&text_color=FFF" />  
   </a>
     
 </div>
